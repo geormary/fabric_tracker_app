@@ -3,7 +3,7 @@
 
 ## Overview
 The Fabric Tracker App is designed to help users efficiently manage and track their fabric inventory. Whether you are a small business owner, a tailor, or a hobbyist, this app will assist you in keeping an organized record of your fabric stock.
-
+Figma: https://www.figma.com/design/qAZXl0tXM0snsNo9eiExaS/SewTracker?node-id=0-1&node-type=canvas&t=W0Q8UnMatlZ8DHXq-0
 ## Features
 - Add new fabric entries with details such as type, color, quantity, and purchase date.
 - Update existing fabric entries as inventory changes.
